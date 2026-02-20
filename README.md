@@ -139,12 +139,13 @@ Serverless API endpoints act as a secure proxy layer
 ├── index.html
 ├── styles.css
 ├── script.js
+├── vercel.json
 ├── /api
 │   ├── weather.js
 │   ├── forecast.js
-│   └── air-pollution.js
-|   |__ reverse.js
-|__ vercel.json
+│   ├── air-pollution.js
+|   ├── reverse.js
+
 
 
 
