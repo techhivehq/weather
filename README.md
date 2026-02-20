@@ -172,4 +172,5 @@ Automated testing for core logic
 Kenneth Amobi
 
 Frontend Developer
+
 🔗 LinkedIn: https://www.linkedin.com/in/kenneth-amobi-06a9803a7
