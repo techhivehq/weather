@@ -28,6 +28,8 @@ This project showcases my ability to design a resilient frontend system, optimiz
 
 ⚠️ Robust Error Handling – User-friendly messages for network issues, API errors, and invalid input
 
+
+
     
 🎯 User Preference Storage & Personalization
 
@@ -38,6 +40,8 @@ Preferences automatically restored on page reload using localStorage
 
 This ensures a personalized, consistent experience across sessions.
 
+
+
 ⚙️ API Optimization & Rate Limit Management
 
 Debounced search input to reduce unnecessary API calls
@@ -46,6 +50,8 @@ Controlled fetch flow to prevent race conditions
 Centralized API request handling for maintainability
 
 These optimizations improve performance, reduce API usage, and protect against rate-limit exhaustion.
+
+
 
 ⚠️ Error Handling & Application Stability
 
@@ -59,6 +65,8 @@ Safe fallback states to prevent UI crashes
 
 The app remains stable and predictable even under failure conditions.
 
+
+
 ⏳ Loading Indicators & Fallback States
 
 Loading indicators displayed during API requests
@@ -66,6 +74,8 @@ Visual placeholders to prevent layout shifts
 Disabled interactions during active fetch operations
 
 This improves perceived performance and prevents user confusion.
+
+
 
 🎨 UI Optimization & User Flow
 
@@ -76,26 +86,36 @@ Mobile-friendly interactions and scroll behavior
 
 The UI is designed to guide users naturally from search → data → insights without friction.
 
+
+
 🛠️ Tech Stack
 
-Frontend
+Frontend:
 
 HTML5 (Semantic & accessible markup)
 CSS3 (Custom styling, transitions, animations)
 Vanilla JavaScript (ES6+)
 
-Visualization
+
+
+Visualization:
 
 Chart.js (Temperature trends)
 
-API
+
+
+API:
 
 OpenWeather API (Weather, Forecast, Air Pollution)
 
-Deployment & Security
+
+
+Deployment & Security:
 
 Vercel (Hosting)
 Serverless API proxy (API keys secured via environment variables)
+
+
 
 🔐 API Key Security
 
@@ -104,6 +124,8 @@ Requests are routed through Vercel serverless functions
 Secrets are managed using environment variables
 
 This reflects real-world production security practices, not demo shortcuts.
+
+
 
 🚀 Deployment Workflow
 
@@ -125,6 +147,8 @@ Serverless API endpoints act as a secure proxy layer
 |__ vercel.json
 
 
+
+
 🧠 What This Project Demonstrates
 
 Real-world API integration
@@ -133,6 +157,8 @@ Defensive JavaScript and application stability
 Performance-conscious API consumption
 Secure frontend deployment
 UX-focused UI and user flow design
+
+
 
 📌 Future Enhancements
 
@@ -144,5 +170,6 @@ Automated testing for core logic
 👤 Author
 
 Kenneth Amobi
+
 Frontend Developer
 🔗 LinkedIn: https://www.linkedin.com/in/kenneth-amobi-06a9803a7
