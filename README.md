@@ -13,12 +13,19 @@ This project showcases my ability to design a resilient frontend system, optimiz
 ✨ Core Features
 
 🌍 Weather Forecast & Visualization
+
 📍 Real-time current weather data by city search or geolocation
+
 🌡️ Hourly forecast displayed in a smooth, scrollable carousel
+
 ⏱️ 5-day forecast with daily summaries
+
 📊 Temperature trend visualization using interactive charts
+
 🌬️ Air Quality Index (AQI) gauge with contextual status indicators
+
 🌓 Light & Dark Mode – Persisted theme with smooth transitions and system preference support
+
 ⚠️ Robust Error Handling – User-friendly messages for network issues, API errors, and invalid input
 
     
